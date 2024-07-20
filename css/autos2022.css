@@ -1,0 +1,171 @@
+#fondo2{
+   /* -webkit-filter: blur(3px); */
+   background-repeat: no-repeat;
+   background-size: contain;
+   background-position: center;
+   background-color: transparent;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-wrap: wrap;
+   height: 400px;
+}
+
+
+#fondo3{
+    /* -webkit-filter: blur(3px); */
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 400px;
+}
+
+
+
+#fondo4{
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 400px;
+
+}
+#aut22{
+    width: 100%;
+    height: 200px;
+    background-color: rgba(78, 78, 138, 0.541);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 100px;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    text-shadow: 5px 5px black;
+}
+
+.pags{
+    text-align: center;
+    padding: 20px;
+    font-size:30px ;
+    color: yellow;
+    text-shadow: 3px 3px black;
+}
+
+.cars{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+
+}
+
+h2{
+    font-size: 40px;
+    text-align: center;
+    color: yellow;
+
+}
+
+.autim{
+    margin: 0 ;
+    padding: 30px;
+    border-radius: 50%;
+    height: 200px;
+    width:200px;
+}
+
+.carac{
+    margin: 50px;
+    padding: 100px;
+    text-align:justify;
+    padding: 10px;
+    font-size: 30px;
+    color: rgb(183, 198, 211);
+
+}
+.autim2{
+    
+    padding: 30px;
+    border-radius: 50%;
+    height: 400px;
+    width: 600px;
+}
+
+.carac2{
+    margin: 50px;
+    padding: 100px;
+    text-align:justify;
+    padding: 10px;
+    font-size: 30px;
+    color: rgb(183, 198, 211);
+
+
+}
+
+.carac{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 20px 5px 20px 5px;
+    background-color: yellow;
+    text-decoration: none;
+}
+
+.caraclet{
+    background-color: yellow;
+    text-decoration: none;
+}
+
+.carac:hover{
+    box-shadow: 2px 2px 5px 5px rgb(55, 3, 122);
+}
+
+
+.backe{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lista-autos{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
+
+
+.equipo-titulo2{
+    width: auto;
+    border-radius: 50px 20px;
+    border-style: solid;
+    border-color: rgb(104, 104, 104);
+    background-color: rgba(37, 21, 75, 0.596);
+    color: white;
+    text-align: center;
+    font-size: 70px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+
+.group{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+.cars:hover{
+    box-shadow: 2px 2px 5px 5px rgb(55, 3, 122);
+    }
